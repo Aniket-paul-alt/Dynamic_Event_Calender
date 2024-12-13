@@ -1,6 +1,8 @@
 CalendarApp
 CalendarApp is a React application that allows users to view a calendar, add events, edit events, and delete events. The events are saved in the local storage so that they persist across page reloads.
 
+live demo : https://dynamically-event-calender.netlify.app/
+
 Features
 View Calendar: Navigate through months and years to view different dates.
 
@@ -18,7 +20,7 @@ To run this application locally, follow these steps:
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/CalendarApp.git
+git clone https://github.com/Aniket-paul-alt/Dynamic_Event_Calender
 cd CalendarApp
 Install dependencies:
 
